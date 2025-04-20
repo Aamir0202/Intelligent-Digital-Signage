@@ -1,0 +1,58 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.env
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Test and coverage reports
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Python-specific config files
+*.pyo
+*.pyc
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# mypy and pyright
+.mypy_cache/
+.pyright/
+
+# VSCode settings
+.vscode/
+
+# Log files
+.log
+.log.*
+
+# Lab
+# lab

@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+dlib = "*"
+mediapipe = "==0.10.9"
+numpy = "==1.26.4"
+opencv-python = "==4.9.0.80"
+scipy = "==1.13.0"
+tf-keras = "*"
+tqdm = "*"
+playsound = "*"
+pygobject = "*"
+
+[requires]
+python_version = "3.10"
+
+[dev-packages]

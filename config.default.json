@@ -1,0 +1,5 @@
+{
+    "model": "imdb",
+    "source": "stream",
+    "logFile": ".log"
+}
